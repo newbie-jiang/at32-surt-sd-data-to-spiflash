@@ -1,0 +1,11 @@
+.\objects\gt_hal_fs.o: GT-HMI-Engine\src\hal\gt_hal_fs.c
+.\objects\gt_hal_fs.o: GT-HMI-Engine\src\hal\./gt_hal_fs.h
+.\objects\gt_hal_fs.o: GT-HMI-Engine\src\hal\./../gt_conf.h
+.\objects\gt_hal_fs.o: GT-HMI-Engine\src\hal\./../others/gt_types.h
+.\objects\gt_hal_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gt_hal_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\gt_hal_fs.o: GT-HMI-Engine\src\hal\../core/gt_mem.h
+.\objects\gt_hal_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gt_hal_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gt_hal_fs.o: GT-HMI-Engine\src\hal\../others/gt_log.h
+.\objects\gt_hal_fs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

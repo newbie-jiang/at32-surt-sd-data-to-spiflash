@@ -1,0 +1,9 @@
+.\objects\gt_port_src.o: GT-HMI-Engine\driver\gt_port_src.c
+.\objects\gt_port_src.o: GT-HMI-Engine\driver\gt_port_src.h
+.\objects\gt_port_src.o: GT-HMI-Engine\driver\../src/hal/gt_hal_src.h
+.\objects\gt_port_src.o: GT-HMI-Engine\driver\../src/hal/../gt_conf.h
+.\objects\gt_port_src.o: GT-HMI-Engine\driver\../src/hal/../others/gt_types.h
+.\objects\gt_port_src.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gt_port_src.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\gt_port_src.o: GT-HMI-Engine\driver\../src/hal/./gt_hal_fs.h
+.\objects\gt_port_src.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

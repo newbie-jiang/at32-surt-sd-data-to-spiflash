@@ -1,0 +1,14 @@
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\gt_ll.c
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\gt_ll.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\gt_list.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\gt_defs.h
+.\objects\gt_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\gt_types.h
+.\objects\gt_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\../core/gt_mem.h
+.\objects\gt_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\../core/../gt_conf.h
+.\objects\gt_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\../core/gt_timer.h
+.\objects\gt_ll.o: GT-HMI-Engine\src\others\../others/gt_log.h
+.\objects\gt_ll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

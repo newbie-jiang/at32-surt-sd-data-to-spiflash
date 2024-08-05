@@ -1,0 +1,9 @@
+.\objects\gt_mem.o: GT-HMI-Engine\src\core\gt_mem.c
+.\objects\gt_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\gt_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\gt_mem.o: GT-HMI-Engine\src\core\gt_mem.h
+.\objects\gt_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\gt_mem.o: GT-HMI-Engine\src\core\../gt_conf.h
+.\objects\gt_mem.o: GT-HMI-Engine\src\core\../others/gt_log.h
+.\objects\gt_mem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\gt_mem.o: GT-HMI-Engine\src\core\../others/gt_tlsf.h
